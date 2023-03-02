@@ -2,6 +2,8 @@
 
 This is a simple Matrix Code Rain animation built with JavaScript. The code uses the HTML5 canvas to create the animation effect. The Matrix Code Rain effect was made famous by the movie "The Matrix" and has become a popular way to add a futuristic and cyberpunk style to websites and applications.
 
+![matrix_Code](https://i.imgur.com/tqY0L9R.jpg)
+
 ## Installation
 
 To use this Matrix Code Rain animation on your website or application, you can simply copy the code from the `index.html`, `style.css`, and `script.js` files into your own files. You will need to include the `script.js` file in your HTML file using a `<script>` tag.
